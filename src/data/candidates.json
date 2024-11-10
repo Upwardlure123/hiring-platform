@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "George Michael",
+    "applicationDate": "2024-11-01",
+    "status": "Under Review",
+    "contactEmail": "george.michael@example.com",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "experience": "3 years"
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "applicationDate": "2024-11-02",
+    "status": "Interview Scheduled",
+    "contactEmail": "alex@example.com",
+    "skills": ["Python", "Django", "Machine Learning"],
+    "experience": "4 years"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "applicationDate": "2024-11-03",
+    "status": "Hired",
+    "contactEmail": "alex.johnson@example.com",
+    "skills": ["Java", "Spring", "Microservices"],
+    "experience": "5 years"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "applicationDate": "2024-11-04",
+    "status": "Rejected",
+    "contactEmail": "emily.davis@example.com",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "experience": "2 years"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "applicationDate": "2024-11-05",
+    "status": "Under Review",
+    "contactEmail": "michael.brown@example.com",
+    "skills": ["Data Science", "R", "SQL"],
+    "experience": "3 years"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Wilson",
+    "applicationDate": "2024-11-06",
+    "status": "Offer Extended",
+    "contactEmail": "sarah.wilson@example.com",
+    "skills": ["Marketing", "SEO", "Content Writing"],
+    "experience": "6 years"
+  },
+  {
+    "id": 7,
+    "name": "David Martinez",
+    "applicationDate": "2024-11-07",
+    "status": "Interview Scheduled",
+    "contactEmail": "david.martinez@example.com",
+    "skills": ["DevOps", "AWS", "Docker"],
+    "experience": "4 years"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Anderson",
+    "applicationDate": "2024-11-08",
+    "status": "Under Review",
+    "contactEmail": "sophia.anderson@example.com",
+    "skills": ["Project Management", "Agile", "Scrum"],
+    "experience": "5 years"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Lee",
+    "applicationDate": "2024-11-09",
+    "status": "Hired",
+    "contactEmail": "daniel.lee@example.com",
+    "skills": ["Ruby on Rails", "PostgreSQL", "JavaScript"],
+    "experience": "4 years"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Taylor",
+    "applicationDate": "2024-11-10",
+    "status": "Rejected",
+    "contactEmail": "olivia.taylor@example.com",
+    "skills": ["Customer Support", "Communication", "Problem Solving"],
+    "experience": "2 years"
+  },
+  {
+    "id": 11,
+    "name": "James White",
+    "applicationDate": "2024-11-11",
+    "status": "Under Review",
+    "contactEmail": "james.white@example.com",
+    "skills": ["PHP", "Laravel", "JavaScript"],
+    "experience": "3 years"
+  },
+  {
+    "id": 12,
+    "name": "Emma Thomas",
+    "applicationDate": "2024-11-12",
+    "status": "Offer Extended",
+    "contactEmail": "emma.thomas@example.com",
+    "skills": ["Graphic Design", "Adobe Illustrator", "Photoshop"],
+    "experience": "5 years"
+  },
+  {
+    "id": 13,
+    "name": "Benjamin Harris",
+    "applicationDate": "2024-11-13",
+    "status": "Interview Scheduled",
+    "contactEmail": "benjamin.harris@example.com",
+    "skills": ["Cybersecurity", "Network Security", "Penetration Testing"],
+    "experience": "6 years"
+  },
+  {
+    "id": 14,
+    "name": "Isabella Lewis",
+    "applicationDate": "2024-11-14",
+    "status": "Under Review",
+    "contactEmail": "isabella.lewis@example.com",
+    "skills": ["Python", "Data Analysis", "Machine Learning"],
+    "experience": "3 years"
+  },
+  {
+    "id": 15,
+    "name": "Ethan Walker",
+    "applicationDate": "2024-11-15",
+    "status": "Rejected",
+    "contactEmail": "ethan.walker@example.com",
+    "skills": ["Sales", "Negotiation", "Customer Relations"],
+    "experience": "5 years"
+  },
+  {
+    "id": 16,
+    "name": "Ava King",
+    "applicationDate": "2024-11-16",
+    "status": "Hired",
+    "contactEmail": "ava.king@example.com",
+    "skills": ["React", "TypeScript", "Redux"],
+    "experience": "4 years"
+  },
+  {
+    "id": 17,
+    "name": "William Young",
+    "applicationDate": "2024-11-17",
+    "status": "Under Review",
+    "contactEmail": "william.young@example.com",
+    "skills": ["IT Support", "Troubleshooting", "Hardware Maintenance"],
+    "experience": "2 years"
+  },
+  {
+    "id": 18,
+    "name": "Mia Wright",
+    "applicationDate": "2024-11-18",
+    "status": "Offer Extended",
+    "contactEmail": "mia.wright@example.com",
+    "skills": ["JavaScript", "Vue.js", "Firebase"],
+    "experience": "3 years"
+  },
+  {
+    "id": 19,
+    "name": "Liam Green",
+    "applicationDate": "2024-11-19",
+    "status": "Interview Scheduled",
+    "contactEmail": "liam.green@example.com",
+    "skills": ["Blockchain", "Smart Contracts", "Ethereum"],
+    "experience": "4 years"
+  },
+  {
+    "id": 20,
+    "name": "Amelia Adams",
+    "applicationDate": "2024-11-20",
+    "status": "Rejected",
+    "contactEmail": "amelia.adams@example.com",
+    "skills": ["Data Entry", "Excel", "Customer Service"],
+    "experience": "1 year"
+  }
+]
